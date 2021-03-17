@@ -22,7 +22,6 @@ class TimeVideoCompositionInstruction:NSObject, AVVideoCompositionInstructionPro
     var timeString = "00:00:00"
     
 
-
     init(_ requiredSourceTrackIDs: [NSValue]?, timeRange: CMTimeRange) {
         self.requiredSourceTrackIDs = requiredSourceTrackIDs
         self.timeRange = timeRange

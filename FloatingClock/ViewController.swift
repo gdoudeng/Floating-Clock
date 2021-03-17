@@ -99,7 +99,6 @@ extension ViewController {
             @unknown default:break
             }
         })
-        
     }
     
     func loadAssetProperty() {
