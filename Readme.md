@@ -15,7 +15,7 @@
 
 预览：
 
-<video src='https://user-images.githubusercontent.com/34932391/163296113-f0195970-f4ba-425b-938b-9d434246c09b.mp4' width=180 ></video>
+![未命名_](https://user-images.githubusercontent.com/34932391/163372526-065a2e5f-fa7d-405d-9071-20c6b7ae89cb.gif)
 
 ### Floating-Clock App
 
