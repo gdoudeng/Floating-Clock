@@ -15,10 +15,7 @@
 
 预览：
 
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://picture-transmission.iplus-studio.top/uPic/RPReplay_Final1648698303.MP4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+<video src='https://user-images.githubusercontent.com/34932391/163296113-f0195970-f4ba-425b-938b-9d434246c09b.mp4' width=180 ></video>
 
 ### Floating-Clock App
 
